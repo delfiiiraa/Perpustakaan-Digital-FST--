@@ -1,0 +1,6 @@
+{
+  "name": "Perpustakaan Digital FST",
+  "description": "Sistem peminjaman buku online dan manajemen perpustakaan pintar untuk Mahasiswa, Dosen, dan Admin FST.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
